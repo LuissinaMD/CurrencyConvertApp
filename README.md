@@ -12,6 +12,14 @@ Este proyecto se realizó dentro del marco del programa Oracle Next Education (O
 - Interfaz de menú interactiva que permite elegir la conversión deseada y el valor a convertir.
 - Mensajes claros y amigables, con separación visual para facilitar el uso.
 
+## Ilustraciones
+
+![Conversor](https://github.com/user-attachments/assets/3a1c54e9-1f62-44f6-a6bf-ea1ef26c7bd7)
+![Conversor4](https://github.com/user-attachments/assets/d1970253-a8f3-46d8-a4a2-d876731b9fbf)
+![Conversor3](https://github.com/user-attachments/assets/f79b7fc2-9424-4ef1-a6c9-8d5ac3121593)
+![Conversor2](https://github.com/user-attachments/assets/93057850-d410-4e5b-998a-3901d262e719)
+
+
 ## Tecnologías Empleadas
 
 - **Java**: Lenguaje de programación utilizado.
