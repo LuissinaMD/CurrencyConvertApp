@@ -42,9 +42,9 @@ Este proyecto se realizó dentro del marco del programa Oracle Next Education (O
 4. El sistema realizará la conversión en tiempo real y le mostrará el resultado.
 5. Puede continuar realizando más conversiones o salir de la aplicación seleccionando la opción "21" en el menú.
 
-## Instrucciones para Descargar
+## Instrucciones para Descargar del repositorio
 
-1. Clone este repositorio en su máquina local utilizando el siguiente comando:
+1. Haga clic en el botón "Code" en la página principal del repositorio y selecciona Download ZIP. Extraiga el contenido del archivo en su computadora. O clone este repositorio en su máquina local utilizando el siguiente comando:
 **git clone https://github.com/LuissinaMD/CurrencyConvertApp.git**
 2. Abra el proyecto en su IDE favorito (mi recomendación es **IntelliJ IDEA**).
 3. Asegúrese de que tiene Java 17 o superior instalado.
